@@ -28,3 +28,15 @@ I am reliable, highly organized and detail-oriented.
   </nav>
 </header>
 ```
+
+## Experience
+
+## Education
+
+* University: Belarusian Trade and Economics University of Consumer Cooperatives
+* Courses:
+  + RS School
+
+## Languages
+* English A2
+* Russian C2
