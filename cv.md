@@ -16,6 +16,7 @@ I am reliable, highly organized and detail-oriented.
 * Git
 
 ## Code Example
+```
 <header>
   <img src="/logo.png" alt="Логотип"> <!-- Логотип сайта -->
   <nav>
@@ -26,3 +27,4 @@ I am reliable, highly organized and detail-oriented.
     </ul>
   </nav>
 </header>
+```
