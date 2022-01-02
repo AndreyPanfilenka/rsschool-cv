@@ -9,3 +9,20 @@
 ## About Me
 I have good interpersonal skills, strong background in people managing. Keep up-to-date with changes in the industry.
 I am reliable, highly organized and detail-oriented.
+
+## Skills
+* HTML
+* CSS
+* Git
+
+## Code Example
+<header>
+  <img src="/logo.png" alt="Логотип"> <!-- Логотип сайта -->
+  <nav>
+    <!-- Меню -->
+    <ul>
+      <li><a href="/">Главная</a></li>
+      <li><a href="/about">О нас</a></li>
+    </ul>
+  </nav>
+</header>
