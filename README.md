@@ -1,1 +1,0 @@
-https://AndreyPanfilenka.github.io/rsschool-cv/
