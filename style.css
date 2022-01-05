@@ -63,16 +63,18 @@ body {
   }
   
 .section {
+    position: relative, right;
     width: 50%;
-  }
+    display: flex;
+}
 
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
     .section {
       width: 100%;
     }
-  }
+}
 
-  .footer {
+.footer {
 	padding: 20px 0;
 	background-color: rgb(39, 39, 39);
 	align-items: center;
@@ -166,3 +168,41 @@ html {
 .main {
     border: 10px solid rgba(102, 124, 24, 0.438); 
 }
+
+#section-title1{
+    position: relative;
+    left: 500px;
+    width: calc(50% - 20px);
+    padding: 10px;
+    padding-bottom: 35px;
+    border-bottom: 5px solid #030500ee;
+}
+
+.section-title {
+    margin-bottom: 50px;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #141314;
+}
+
+.github {
+    position: relative;
+    left: 600px;
+}
+
+pre{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #df1010;
+  }
+
+  p{
+    padding: 5px 30px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #817979;
+  }
